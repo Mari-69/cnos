@@ -19,3 +19,11 @@ c[k++] = 'c';
 } 
 c[k++] = a[i]; 
 }
+c[k++] = '\0'; 
+b[j++]='\0'; 
+printf("%s\n",b); 
+printf("DLESTX"); 
+printf("%s",c); 
+printf("DLEETX"); 
+return 0; 
+} 
